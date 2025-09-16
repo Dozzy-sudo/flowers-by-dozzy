@@ -1,7 +1,6 @@
 # Flowers by Dozzy
 
 Welcome to **Flowers by Dozzy**!  
-A web-based project for exploring, showcasing, or selling flowers online.
 
 ![Repository Owner](https://avatars.githubusercontent.com/u/185097933?v=4)
 
