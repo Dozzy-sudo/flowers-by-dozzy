@@ -2,8 +2,6 @@
 
 Welcome to **Flowers by Dozzy**!  
 
-![Repository Owner](https://avatars.githubusercontent.com/u/185097933?v=4)
-
 ## 🚀 Overview
 
 This repository contains the source code for a flower-themed site built with HTML, CSS, and JavaScript. Whether you're looking to display beautiful bouquets, create a digital flower shop, or simply experiment with floral web design, this project provides a solid foundation.
